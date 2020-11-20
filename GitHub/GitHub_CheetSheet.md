@@ -6,3 +6,4 @@
 - GitHub Pagesで簡単なWebページを公開するまでの手順まとめ：[URL](https://yosiakatsuki.net/blog/create-github-pages-repo/)
 - PRレビュー：[URL](https://qiita.com/YusukeHosonuma/items/99cb430c7723bf991cfa)
 - GitHubで数式：[URL](https://tex-image-link-generator.herokuapp.com/)
+- Gitでやりたいこと、ここで見つかる：[URL](https://qiita.com/shimotaroo/items/b73d896ace10894fd290)
