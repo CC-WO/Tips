@@ -4,7 +4,7 @@ Summary of various tips.
 
 ## Circuit Cheet Sheet
 
-Circuit Embedded Cheet Sheet：[URL](Circuit/Circuit.md)
+Circuit Embedded Cheet Sheet：[URL](Circuit/Circuit_CheetSheet.md)
 
 ## GitHub Cheet Sheet
 
