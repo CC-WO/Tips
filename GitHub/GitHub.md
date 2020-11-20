@@ -35,8 +35,8 @@
 
 作成情報を列挙する
 
-- Author:
-- E-mail:
+- Author：
+- E-mail：
 
 ## License
 
