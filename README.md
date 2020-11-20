@@ -32,3 +32,7 @@ Markdown Cheet Sheet：[URL](Markdown/Markdown_CheetSheet.md)
 ## Mac Cheet Sheet
 
 Mac Cheet Sheet：[URL](Mac/Mac_CheetSheet.md)
+
+## VSCode Cheet Sheet
+
+VSCode Cheet Sheet：[URL](VSCode/VSCode_CheetSheet.md)
